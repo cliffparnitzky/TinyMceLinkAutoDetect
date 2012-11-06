@@ -30,6 +30,6 @@
 /**
  * Define name and tooltip for preferences (inactive modules)
  */
-$GLOBALS['TL_LANG']['MOD']['TinyMceLinkAutoDetect'] = array('TinyMCE Linkerkennungs Plugin', 'Spezielles TinyMCE Plugin, dass Links (z.B. www.domain.com) oder E-Mail-Adressen (z.B. mail@domain.com) automatisch in Hyperlinks konvertiert.');
+$GLOBALS['TL_LANG']['MOD']['TinyMceLinkAutoDetect'] = array('TinyMCE Linkerkennungs Plugin', 'Spezielles TinyMCE Plugin das Links (z.B. www.domain.com) oder E-Mail-Adressen (z.B. mail@domain.com) automatisch in Hyperlinks konvertiert.');
 
 ?>
