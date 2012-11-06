@@ -1,7 +1,7 @@
 Contao TinyMceLinkAutoDetect Extension
 ======================================
 
-Special TinyMCE Plugin that coverts links (e.g. `www.google.de`) or email addresses (e.g. `mail@domain.com`) into hyperlinks.
+Special TinyMCE plugin that coverts links (e.g. `www.google.de`) or email addresses (e.g. `mail@domain.com`) into hyperlinks.
 
 The sources of this plugin could be found [here](http://sourceforge.net/tracker/?func=detail&aid=2770218&group_id=103281&atid=738747).
 
