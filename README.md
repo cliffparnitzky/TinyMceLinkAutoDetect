@@ -30,3 +30,9 @@ Dependency
 ----------
 
 - To load this plugin and add it to the configuration the extension [[TinyMcePluginLoader]](https://github.com/cliffparnitzky/TinyMcePluginLoader) has to be installed.
+
+
+Screenshot
+----------
+
+![Screenshot](https://raw.github.com/cliffparnitzky/TinyMceLinkAutoDetect/master/screenshot.jpg)
