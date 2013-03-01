@@ -1,5 +1,5 @@
-Contao TinyMceLinkAutoDetect Extension
-======================================
+Contao Extension: TinyMceLinkAutoDetect
+=======================================
 
 Special TinyMCE plugin that automatically coverts links (e.g. `www.domain.com`) or email addresses (e.g. `mail@domain.com`) into hyperlinks.
 
@@ -23,7 +23,7 @@ Compatibility
 -------------
 
 - min. version: Contao 2.9.5
-- max. version: Contao 2.11.6
+- max. version: Contao 2.11.x
 
 
 Dependency
