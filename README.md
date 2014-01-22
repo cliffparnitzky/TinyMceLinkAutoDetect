@@ -22,8 +22,10 @@ https://github.com/cliffparnitzky/TinyMceLinkAutoDetect/issues
 Compatibility
 -------------
 
-- min. version: Contao 2.9.5
-- max. version: Contao 2.11.x
+- min. version: Contao 3.0.x
+- max. version: Contao 3.2.x
+
+(For Contao 2 look at the [master_c2 Branch](https://github.com/cliffparnitzky/TinyMceLinkAutoDetect/tree/master_c2))
 
 
 Dependency
