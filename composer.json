@@ -1,0 +1,36 @@
+{
+	"name":"cliffparnitzky/tiny-mce-link-auto-detect",
+	"description":"Special TinyMCE plugin that automatically coverts links (e.g. `www.domain.com`) or email addresses (e.g. `mail@domain.com`) into hyperlinks.",
+	"keywords":["contao","tinymce","tiny editor","tinymce plugin","auto link"],
+	"type":"contao-module",
+	"license":"LGPL-3.0+",
+	"authors":[
+		{
+			"name":"Cliff Parnitzky",
+			"email":"contao@cliff-parnitzky.de",
+			"role":"Developer"
+		}
+	],
+	"support":{
+		"email":"contao@cliff-parnitzky.de",
+		"issues":"https://github.com/cliffparnitzky/TinyMceLinkAutoDetect/issues",
+		"source":"https://github.com/cliffparnitzky/TinyMceLinkAutoDetect"
+	},
+	"require":{
+		"php":">=5.3",
+		"contao/core":">=2.9.5,<3.3.0",
+		"contao-community-alliance/composer-installer":"*",
+		"cliffparnitzky/tiny-mce-plugin-loader":">=1.0.0,<2.0.x-dev"
+	},
+	"extra":{
+		"contao":{
+			"sources":{
+				"assets/tinymce/plugins/linkautodetect":"assets/tinymce/plugins/linkautodetect",
+				"system/modules/TinyMceLinkAutoDetect":"system/modules/TinyMceLinkAutoDetect"
+			}
+		},
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	}
+}
